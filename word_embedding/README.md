@@ -19,13 +19,16 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install nltk
 pip install gensim
+pip install numpy
+pip install scikit-learn
+pip install torch
 
 ```
 
 ## how to run
 To run this Jupyter Notebook, you can either open it in Google Colab using the link below or run it locally using Jupyter Notebook.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/nlp/blob/main/word_embedding/word%20embedding.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/nlp/blob/main/word_embedding/word_embedding.ipynb)
 
 Install Jupyter Notebook (if you don't have it yet):
 
