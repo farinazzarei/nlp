@@ -1,7 +1,5 @@
 # Attention
 
-Corrected version:
-
 In this project, we developed self-attention-based neural architecture inspired by the paper
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762). Unlike traditional word embedding approaches the focus on
 neighboring words, our implementation learns contextual relationships among all tokens within a sentence through the
